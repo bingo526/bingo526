@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from US</h3>
 
 
-- 🌱 I’m currently learning **Back-End Development**
+- 🌱 I’m currently learning **Svelte**
 
 - 👨‍💻 All of my projects are available at [https://chief-victoru.netlify.app](https://chief-victoru.netlify.app)
 
